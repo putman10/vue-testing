@@ -1,4 +1,4 @@
-# vue-testing
+# CellComponent
 
 ## Project setup
 ```
